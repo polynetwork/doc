@@ -221,6 +221,17 @@ NEOx | neox | 6e656f78 | not including currently
 GASx | gasx | 67617378 | not including currently
 ATOM | stake | 7374616b65 | not including currently
 
+
+## Bor
+
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0x15D3f62822a446b8C5fDBBef157f0b82b05c29Ab | Cross Chain Manager Proxy contract hash 
+ECCD | 0xd097cf11c0215563AaAE2d3bb49366C59FFFa144 | Cross Chain Data contract hash
+ECCM | 0x3f17e8DCb0D762e2bFCb437aD2C4ffe24BCF25ee   | Cross Chain Manager contract hash
+Lock Proxy | 0x4e5eF0CA5A94b169Fb010fb40DBFD57c4830f446 | The lock proxy bridge contract hash
+
+
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
@@ -234,3 +245,5 @@ Heco | 7 | 7
 Palette | 8 | 106
 OK | 12 | 200
 NEO(N3) | 11 | 11
+Heimdall | 15 | 201
+Bor | 16 | 202
