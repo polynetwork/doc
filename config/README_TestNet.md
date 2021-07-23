@@ -159,6 +159,7 @@ Nep5Proxy	| 0xedd2862dceb90b945210372d229f453f2b705f4f	| 4f5f702b3f459f222d37105
 CCMC	| 0xe1695b1314a1331e3935481620417ed835669407	| 07946635d87e4120164835391e33a114135b69e1	| Cross Chain Manager Contract
 pnWETH	| 0x23535b6fd46b8f867ed010bab4c2bd8ef0d0c64f	| 4fc6d0f08ebdc2b4ba10d07e868f6bd46f5b5323	| 
 nNEO	| 0x17da3881ab2d050fea414c80b3fa8324d756f60e	| 0ef656d72483fab3804c41ea0f052dab8138da17	| 
+cGAS	| 0x74f2dc36a68fdc4682034178eb2220729231db76	| 76db3192722022eb7841038246dc8fa636dcf274	| 
 pONTd	| 0x658cabf9c1f71ba0fa64098a7c17e52b94046ece	| ce6e04942be5177c8a0964faa01bf7c1f9ab8c65	| 
 pnUSDT	| 0xb8f78d43ea9fe006c85a26b9aff67bcf69dd4fe1	| e14fdd69cf7bf6afb9265ac806e09fea438df7b8	| 
 pnWBTC	| 0x69c57a716567a0f6910a0b3c1d4508fa163eb927	| 27b93e16fa08451d3c0b0a91f6a06765717ac569	| 
@@ -180,25 +181,11 @@ pxUSDT | 0xf6e02d506929c3f47be47bf60997a96a41c7b282 | 82b2c7416aa99709f67be47bf4
 Type | Contract Hash | Desc
 ---|---|---
 Wrapper | 	| 	| 
-Nep17Proxy	| 0x97758f7e9c11e79423453e5acd925989ff7d3ade	| de3a7dff895992cd5a3e452394e7119c7e8f7597	| The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
-CCMC	| 0xfdd6c536f59bfd1149e818635d46dcc6faf1ba44	| 44baf1fac6dc465d6318e84911fd9bf536c5d6fd	| Cross Chain Manager Contract
-pnWETH	| 	| 	| 
-nNEO	| 	| 	| 
+Nep17Proxy	| 0x4487494dac2f7eb68bdae009cacd6de88243e542	| 42e54382e86dcdca09e0da8bb67e2fac4d498744	| The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+CCMC	| 0x618d44dc3af16c6120dbf65402024f40a04f772a	| 2a774fa0404f020254f6db20616cf13adc448d61	| Cross Chain Manager Contract
+NEO	| 0xef4073a0f2b305a38ec4050e4d3d28bc40ea63f5	| f563ea40bc283d4d0e05c48ea305b3f2a07340ef	| 
+GAS	| 0xd2a4cff31913016155e38e474a2c06d08be276cf	| cf76e28bd0062c4a478ee35561011319f3cfa4d2	| 
 pONTd	| 	| 	| 
-pnUSDT	| 0xc3b4f3b4b7c6c399cb44e8076192a8a9ee980a28	| 	280a98eea9a8926107e844cb99c3c6b7b4f3b4c3| 
-pnWBTC	| 	| 	| 
-pnUNI_V2_ETH_WBTC	| 	| 	| 
-FLM	| 	| 	| 
-pBNB	| 	| 	| 
-pWING |	 |	 |
-pWBTC |	 |	 |
-pDAI |	 |	 |
-pUSDC |	 |	 |
-pHT |  |  | 
-pHrc20 |  |  | 
-pxWETH |  |  | 
-pxWBTC |  |  | 
-pxUSDT |  |  | 
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
@@ -244,6 +231,8 @@ BSC | 6 | 79
 Heco | 7 | 7
 Palette | 8 | 106
 OK | 12 | 200
-NEO(N3) | 11 | 11
+NEO(N3 legacy) | 11 | 11
 Heimdall | 15 | 201
 Bor | 16 | 202
+NEO(N3) | 88 | 88
+
