@@ -2,6 +2,16 @@
 
 This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it's used to bind asset mapping in different chain, if the name ends with (s) on behalf of the asset is mapping.
 
+## Poly Relayer Addresses
+Chain | Relayer Addresses
+---|---
+ETH | <ul><li> 0x7a1979f8dc3c1e25f506c77c4c0dd0c2113b6cd8</li><li>0x8c5e8eb7eb33d61d1e3c6e21fbc2fca6bd2f2d86</li><li>0x0da171a973608cad5bb78585b2ae5373fad2c483</li></ul>
+HECO | <ul><li> 0x7a1979f8dc3c1e25f506c77c4c0dd0c2113b6cd8</li><li>0x8c5e8eb7eb33d61d1e3c6e21fbc2fca6bd2f2d86</li><li>0x7573c6692c09b4299daaecd23e200673b71a5522</li><li>0xf124755e7551034067684c91718a9619d4cf9e73</li><li>0x0da171a973608cad5bb78585b2ae5373fad2c483</li></ul>
+BSC | <ul><li> 0xa3c419D2b37105A4ebE4f42698d220E59295a190</li><li>0x446f136f81196b5708f3751aebd8025abbae8790</li><li>0xf5340ea4651470df9d23834fb382a5e532addae9</li><li>0xa0872c79900fed7a1a41e046d3665806a14c3bab</li><li>0x5ad1361f2957b717cc3055bc20c7095b989a2c31</li><li>0x680766d06024619425b5a8feded05c2032932317</li><li>0x0da171a973608cad5bb78585b2ae5373fad2c483</li></ul>
+OK | <ul><li> 0x0da171a973608cad5bb78585b2ae5373fad2c483</li><li>0xffca5f560be8ebabfe19cd8a6150f8978eb560df</li></ul>
+NEO | <ul><li>ALjgBt3QdfoENa11e9yToy3bn16b685EZS</li></ul>
+ONT | <ul><li>AM5F45WQyVSCYVpVbu8RK6cZZgk1GdDg2Q</li></ul>
+
 
 ## Decentralized Application MainNet Nodes
 Chain | IP | Rpc Port
@@ -24,10 +34,10 @@ ECCM | 0x838bf9e95cb12dd76a54c9f9d2e3082eaf928270 | Ethereum Cross Chain Manager
 Lock Proxy| 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Ethereum Asset Proxy contract hash
 Poly Wrapper | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xd380450e9e373bDC389951C54616edb2EE653524 | wrapper_v2 that take native asset as fee
-Swapper | 0x02e20ca05e38cbdf1a6235a7acdd34efc0434caa | curve entrance for auto cross chain tx with fee 
+Swapper | 0xaf83ce8d461e8834de03a3803c968615013c6b3d | curve entrance for auto cross chain tx with fee 
 NFT Lock Proxy | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash
 NFT Wrapper | 0xe5204d62361A353C665668C858Ea213070CA159c | The NFT Wrapper contract hash
-NFT Query | 0xE5fb4748AeC17B4140cf7b9e17dd935C66dad24A | The NFT profile query contract hash
+NFT Query | 0xB2265A122814dA516318F727183a5D8FeCA8BaCE | The NFT profile query contract hash
 pONT| 0xcb46c550539ac3db72dc7af7c89b11c306c727c2 | Ethereum Ontology Token
 WBTC| 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599 | WBTC
 USDC| 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 | USDC
@@ -74,6 +84,29 @@ mBTM | 0x9288A57D6c5644B25569e9D1d5e9e328228D26c6 | mBTM
 FREL | 0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70 | FREL
 DOV | 0xac3211a5025414af2866ff09c23fc18bc97e79b1 | DOV
 CELL | 0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099 | CELL
+DMOD | 0x5f6c5c2fb289db2228d159c69621215e354218d7 | DMOD
+FILE | 0xABDf43c835577f0983686a9851841D314385aafE | FILE
+ROCKS | 0x0829d2d5cC09d3d341E813c821B0cfAE272D9fb2 | ROCKS
+COW | 0x34965f73Cfa05Bf8d8aF37cB4af64Fa950605Ea8 | COW
+TSX | 0x734c90044a0ba31b3f2e640c10dc5d3540499bfd | TSX
+PRY | 0x3c81d482172cc273c3b91dd9d8eb212023d00521 | PRY
+SPAY | 0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5 | SPAY
+MOZ | 0x7bd82b320ebc28d8eb3c4f5fa2af7b14da5b90c3 | MOZ
+STN | 0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB | STN
+CART | 0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e | CART
+BKC | 0xdfa9e19a4c4640dc0030718430aecfcda9121dbd | BKC
+HD | 0x6ce654aC973D326F89f0685E7459542641410eD9 | HD
+GOF | 0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c | GOF
+WETH| 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 | WETH
+ROSN | 0x651Cd665bD558175A956fb3D72206eA08Eb3dF5b | ROSE
+SPHRI | 0x8A0cdfaB62eD35b836DC0633482798421C81b3Ec | SPHRI
+SLD | 0x1ef6a7e2c966fb7c5403efefde38338b1a95a084 | SLD
+HDT | 0x1cc945Be7d0D2C852d0096A8b5714b44eD21D5D3 | HDT
+SIL | 0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C | SIL
+OOE | 0x7778360f035c589fce2f4ea5786cbd8b36e5396b | OOE
+BET | 0x028a52032a7075a42585c037f069c62b49ebaa3d | BET
+CBC | 0x14e449473251F2D9D4eA5D26199F002C214b2475 | CBC
+DFC | 0x1b2a76da77d03b7fc21189d9838f55bd849014af | DFC
 
 
 ## Ethereum: nrenBTC/nsBTC/nTUSD/nUSDC/nwBTC/nwETH/nDAI
@@ -114,6 +147,7 @@ pUNI | B: 89029ef258b82c5c3741fe25db91375e9301dc71 </br> L: 71dc01935e3791db25fe
 pOKB | B: 8ea81002294e8117b43ab719bd03b7ad9fe67dc0 </br> L: c07de69fadb703bd19b73ab417814e290210a88e | Ontology pOKB asset contract hash
 pYFI | B: 8c8dc28d10c22a66357240b920b569e32447d7af </br> L: afd74724e369b520b9407235662ac2108dc28d8c | Ontology pYFI asset contract hash
 pUNFI | B: 6f560d392a8701d0931a7d61f8ac4bdcc050e9ab </br> L: abe950c0dc4bacf8617d1a93d001872a390d566f | Ontology pUNFI asset contract hash
+OOE | B: 9f4650436a446f635db2db989e7ac067dcea240d </br> L: 0d24eadc67c07a9e98dbb25d636f446a4350469f | Ontology OOE asset contract hash
 
 
 
@@ -146,10 +180,10 @@ ECCM | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | BSC Cross Chain Manager cont
 Lock Proxy| 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | BSC Asset Proxy contract hash
 Poly Wrapper | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0x4b0CFdb5e1Ca898a225F9E14AfF9e4eF178a10d2 | wrapper_v2 that take native asset as fee
-Swapper | 0x3ec481143d688442E581aD7116Bf1ECC76669cfa | Curve entrance for auto cross chain tx with fee 
+Swapper | 0x00b93851e3135663AAeC351555EddEE5B01325e6 | Curve entrance for auto cross chain tx with fee 
 NFT Lock Proxy | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash
 NFT Wrapper | 0xe2bD9dD8FAF5C4C2087Ab82eC7E63F619CcAa152 | The NFT Wrapper contract hash
-NFT Query | 0x55864d6f34b63495Fb4A0f0f19EDdfF70010cB0C | The NFT profile query contract hash
+NFT Query | 0x02015dBb2Dc25Cc7313D7EDb4785c2C46F3B7FD2 | The NFT profile query contract hash
 pNEO | 0xb119b3b8e5e6eeffbe754b20ee5b8a42809931fb | NEO mapping asset in BSC
 pETH | 0xb9478391eec218defa96f7b9a7938cf44e7a2fd5 | ETH mapping asset in BSC
 pUSDT|  0x48389753b64C9e581975457332E60dC49325A653 | USDT mapping asset in BSC
@@ -181,10 +215,35 @@ O3    | 0xee9801669c6138e84bd50deb500827b776777d28 | O3 mapping asset in BSC
 SOFA    | 0x54f93c0dc067af625dd63da1ce12bd44329902d9 | SOFA
 mBTM    | 0x79f8ed0bc943000ddfd798a66760862937829183 | mBTM
 SPAY    | 0xbcf39f0edda668c58371e519af37ca705f2bfcbd | SPAY
-FREL    | 0x22C98e232C40b015880C40f23Fc0120E92Dd522d | FREL
+FREL    | 0xfd5af95C12446b60d23e16A4EA95690cE942e5dC | FREL
 DOV    | 0xc9457161320210D22F0D0d5fC1309Acb383d4609 | DOV
 CELL    | 0x0FFb06aabbA09b1D6E9Bd78D97791B0eFAc9536a | CELL
 BOPR    | 0xFd4677B9FB00355CbE87EC54f42B79a008b4c622 | BOPR
+DMOD    | 0x002D8563759f5e1EAf8784181F3973288F6856e4 | DMOD
+FILE    | 0xA8F19840e08dC3f134FF45062b953a2B14E02F5A | FILE
+ROCKS    | 0x0829d2d5cC09d3d341E813c821B0cfAE272D9fb2 | ROCKS
+mBTC    | 0xf4e3e2f3e0657ba3f6951c8716b28ddbb269b6ff | mBTC
+COW    | 0x422E3aF98bC1dE5a1838BE31A56f75DB4Ad43730 | COW
+TSX | 0x270388e0ca29cfd7c7e73903d9d933a23d1bab39 | TSX
+PRY | 0x3c81d482172cc273c3b91dd9d8eb212023d00521 | PRY
+SPAY | 0x13A637026dF26F846D55ACC52775377717345c06  | SPAY
+MOZ | 0xe4b22193d68f18f8e8eb3a26f4d64cb6d4573022  | MOZ
+STN | 0xf7fb08c187e6cd1f2149e6c818d0b6d4d4ef1430  | STN
+GOF | 0x2bcF9c1861FaE2d5a7D2b3242b71e2a8d461F61e  | GOF
+CART | 0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e | CART
+ETH | 0x2170ed0880ac9a755fd29b2688956bd959f933f8 | ETH
+ROSN | 0x651Cd665bD558175A956fb3D72206eA08Eb3dF5b | ROSE
+HKR | 0xb23236a6d1af62bd4809e0ef933cfd7a6917cd68 | HKR
+HAI | 0x971fe540feff9d91d6fbb93c27fbb527bfb96a3e | HAI
+DOGK | 0x42b1495e9bf2de0ae6510d50584a0799166542f7 | DOGK
+SPHRI | 0x8B7a0007F6E0ddb16cd14f34af3306947fC698a6 | SPHRI
+SLD | 0x1ef6a7e2c966fb7c5403efefde38338b1a95a084 | SLD
+BTCB | 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c | Binance-Peg BTCB Token
+SIL | 0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C | SIL
+OOE | 0x9029fdfae9a03135846381c7ce16595c3554e10a | OOE
+BET | 0x028a52032a7075a42585c037f069c62b49ebaa3d | BET
+CBC | 0x793cEa0F1003411396b3A81A77d92Fe37015E7A9 | CBC
+DFC | 0x1b2a76da77d03b7fc21189d9838f55bd849014af | DFC
 
 
 
@@ -197,10 +256,10 @@ ECCM | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | Heco Cross Chain Manager con
 Lock Proxy| 0x020c15e7d08A8Ec7D35bCf3AC3CCbF0BBf2704e6 | Heco Asset Proxy contract hash
 Poly Wrapper | 0x4fE451186c0D69205ACc1fA00FD75fc6d71e47eE | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0x1B0C55be400e2a7D924032B257Fbc75Bbfd256E7 | wrapper_v2 that take native asset as fee
-Swapper | 0x70f4d1176f9276ab4B31658f58F7473858F2b550 | Curve entrance for auto cross chain tx with fee 
+Swapper | 0xD98Ee7Ca1B33e60C75E3cd9493c566fc857592c8 | Curve entrance for auto cross chain tx with fee 
 NFT Lock Proxy | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash
 NFT Wrapper | 0xe2bD9dD8FAF5C4C2087Ab82eC7E63F619CcAa152 | The NFT Wrapper contract hash
-NFT Query | 0x55864d6f34b63495Fb4A0f0f19EDdfF70010cB0C | The NFT profile query contract hash
+NFT Query | 0x56C9491F2aC2Bc623AB890D2Db16C98E1aBd1FBd | The NFT profile query contract hash
 pNEO | 0x6514a5ebff7944099591ae3e8a5c0979c83b2571 | NEO mapping asset in Heco
 pETH | 0x8c0859c191d8f100e4a3c0d8c0066c36a0c1f894 | ETH mapping asset in Heco
 pDAI | 0x643f3914fB8eDE03d932c79732746a8c11Ae470A | DAI mapping asset in Heco
@@ -233,14 +292,45 @@ SOFA    | 0x829fdfcdf7d6ef9a07f5f53af7247d2da94da8fb | SOFA
 mBTM    | 0xd97b21993187391f44d497dd4d961122e0a6f958 | mBTM
 BNB    | 0x4f99d10e16972ff2fe315eee53a95fc5a5870ce3 | BNB
 COPR    | 0x46EFB7724364ded21b3598519D754323A4f66EC9 | COPR
-
+FILE    | 0x4A011A4eF0253Cc32CCcdA57d2b0C212bFd86771 | FILE
+COW    | 0x80861a817106665bca173db6ac2ab628a738c737 | COW
+GOF | 0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1  | GOF
+BKC | 0x36278870a563f5f2964016eed3a6e329375f6a6e | BKC
+HD | 0xa161658ad97f70915136b773beecb72cde221f31 | HD
+ETH | 0x64ff637fb478863b7468bc97d30a5bf3a428a1fd | ETH
+HKR | 0xa74b0514b403bdb573bf22df0062d43f6498a164 | HKR
+HAI | 0x7663bc3ae9858cae71722aedee364e125c278bdf | HAI
+DOGK | 0x42b1495e9bf2de0ae6510d50584a0799166542f7 | DOGK
+HDT | 0x3d5d17243307b1e236bfbded127a7f4d0b62e185 | HDT
+HBTC | 0x66a79d23e58475d2738179ca52cd0b41d73f0bea | Heco-Peg HBTC Token
+HUSD | 0x0298c2b32eae4da002a15f36fdf7615bea3da047 | HUSD
+OOE | 0x40817e1ab07fc872b7af6a959c4b7a8febf6c4ab | OOE
+BET | 0x028a52032a7075a42585c037f069c62b49ebaa3d | BET
 
 ## Curve
 Type | Contract Hash | Desc
 ---|---|---
+Pool-1  | 0xa6157DaBDda80F8c956962AB7739f17F54BAAB7F | USDT-BUSD-HUSD pool address in Curve
+Pool-1-LP | 0x23dF75A64Dc59d2884BE25021d7A424B18709A41 | LP token of pool-1
 USDT    | 0x061a87Aac7695b9cf9482043175fd3bE3374AB66 | USDT mapping asset in Curve
 BUSD    | 0xBFC0457548BB90D54123a71a7310BaDa8f4662c0 | BUSD mapping asset in Curve
 HUSD    | 0x0926B2DB9D053E0022419093CCd57b92301fB736 | HUSD mapping asset in Curve
+Pool-2  | 0x560470C9C6E45fBe47c792E90B691015f0614A9c | ETH pool address in Curve
+Pool-2-LP | 0x0C1EE7a93bd92437f0528aDcf4a8607244A946DE | LP token of pool-2
+WETH    | 0x83f28703A5761Fe96e4c68Ea5861519f59928DDA | Eth WETH mapping asset in Curve
+BETH    | 0xdCb4775d6F7AA96B2E850b9ee6674FC6A47b85F6 | Bsc ETH mapping asset in Curve
+HETH    | 0xF554231385f15C89A5A5Eb3f96C1A9dfaCA9678d | Heco ETH mapping asset in Curve
+Pool-3  | 0xd709d95479Fe244b27A34441D497859960893Ec6 | BNB pool address in Curve
+Pool-3-LP | 0xc0Fa229d87cA58B80C3D4F1254df5214DdfE4fF7 | LP token of pool-3
+EBNB    | 0xB7a66a6007606c64bD3b2D771fFA793Ada28E7e4 | Eth BNB mapping asset in Curve
+WBNB    | 0x351a102B2c1a9121f7926E3f47c36Ee947786B3F | Bsc WBNB mapping asset in Curve
+Pool-4  | 0x6c27318a0923369de04df7Edb818744641FD9602 | BTC pool address in Curve
+Pool-4-LP | 0xCC0061012d49331Bf6Edf8d7a8cceC087F81E982 | LP token of pool-4
+WBTC    | 0x7648bDF3B4f26623570bE4DD387Ed034F2E95aad | Eth WBTC mapping asset in Curve
+BTCB    | 0x2367e9Cf3355EA714236e6719B91336D29D6D59D | Bsc BTC mapping asset in Curve
+HBTC    | 0x285F30fD447598178d3B8adBdc0839B0c72C26eb | Heco BTC mapping asset in Curve
+
+
 
 
 ## OKEx

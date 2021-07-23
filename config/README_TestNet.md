@@ -18,9 +18,10 @@ CCMP | 0xb600c8a2e8852832B75DB9Da1A3A1c173eAb28d8 | Cross Chain Manager Proxy co
 ECCD | 0xA38366d552672556CE82426Da5031E2Ae0598dcD | Ethereum Cross Chain Data contract hash
 ECCM | 0x726532586C50ec9f4080B71f906a3d9779bbd64F   | Ethereum Cross Chain Manager contract hash
 Lock Proxy | 0xD8aE73e06552E270340b63A8bcAbf9277a1aac99 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+Wrapper | 0xDc37471Af6a8aB7f45F444c5a3Ef4758281bE32C   | Ethereum Wrapper contract hash
 NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lockc proxy contract hash
 NFT Wrapper | 0x940300dc3Fc26e3A330a300be766184C0b5Fe019 | The NFT Wrapper contract hash
-NFT Query | 0xD2B67aeeA3A5e85AEe9F77E98db094d1E30A00Ed | The NFT profile query contract hash
+NFT Query | 0x500674D603331C43ed2288834BAb284BF65fc076 | The NFT profile query contract hash
 NFT SEASCAPE | 0x3680fb34F55030326659cd9AaEc522B6E355bdB6 | The seascape NFT contracct hash
 NFT cat1 | 0xa85c9FC8F2c9060d674E0CA97F703a0A30619305 | The NFT collection of `digitalCat1` contract hash
 ERC20 | 0x276788aF4a803781267c84692416311DE1F761f9 | ERC20 template contract hash in Ethereum chain
@@ -63,9 +64,10 @@ CCMP | 0x441C035446c947a97bD36b425B67907244576990 | Cross Chain Manager Proxy co
 ECCD | 0xE815E5B52A659d78c91B747f7A3b358cc4F04794 | Cross Chain Data contract hash
 ECCM | 0xdB8e0cB4b48981BAf26c4844f084Fbb7303151ef   | Cross Chain Manager contract hash
 Lock Proxy | 0x097Ae585BfEf78DDC8E266ABCb840dAF7265130c | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+Wrapper | 0x9f9F15CC407F7b26f55D71D43f993580a9107007   | wrapper contract hash
 NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lockc proxy contract hash
 NFT Wrapper | 0x61E289D43C1FEA7598786557A2F309979ad144D3 | The NFT Wrapper contract hash
-NFT Query | 0x274DD6F0bA27C167821fD340cb3a3B2Ab3b5827D | The NFT profile query contract hash
+NFT Query | 0xAB3e1F13127bE931A71Fdc8940bd31506EFC6A70 | The NFT profile query contract hash
 NFT SEASCAPE | 0x66638F4970C2ae63773946906922c07a583b6069 | The seascape NFT contracct hash
 NFT cat1 | 0x455B51D882571E244d03668f1a458ca74E70d196 | The NFT collection of `digitalCat1` contract hash
 Bnb | 0x0000000000000000000000000000000000000000 | The asset hash that we treat as the Bnb asset
@@ -103,9 +105,10 @@ CCMP | 0xc5757b5d22984E534004cC7Fb1D59eD14EC510a5 | Cross Chain Manager Proxy co
 ECCD | 0x709D63f3d1a46B89cE4F6a61C8fb16aB29fD26F8 | Cross Chain Data contract hash
 ECCM | 0xD9A3d265a1127051F620e700B5a461af4991EaAE   | Cross Chain Manager contract hash
 Lock Proxy | 0x4a76E52600C6285029c8f7c52183cf86282cA5b8 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+Wrapper | 0xCC8407Ee04AaC2AdC0E6A55E7E97176C701146cd   | Wrapper contract hash
 NFT Lock Proxy | 0x25BB8E9C0Cc03B30d09769735208a47d389Ff36c | The NFT lockc proxy contract hash
 NFT Wrapper | 0xbaBaAF5CF7f63437755aAAFE7a4106463c5cD540 | The NFT Wrapper contract hash
-NFT Query | 0xD54a267B2c983d883D39248Dd7002dc7405559E0 | The NFT profile query contract hash
+NFT Query | 0xE1488842b15E0f084b254588f46e4C570065d6A0 | The NFT profile query contract hash
 NFT SEASCAPE | 0xF9Dd424e64E9264632a564FBDcC87Ba8eA40B5Ba | The seascape NFT contracct hash
 NFT cat1 | 0x0C3C33dA088ABeeE376418d3E384528c5AaDBA11 | The NFT collection of `digitalCat1` contract hash
 HT | 0x0000000000000000000000000000000000000000 | Native Huobi token on huobi eco chain
@@ -156,6 +159,7 @@ Nep5Proxy	| 0xedd2862dceb90b945210372d229f453f2b705f4f	| 4f5f702b3f459f222d37105
 CCMC	| 0xe1695b1314a1331e3935481620417ed835669407	| 07946635d87e4120164835391e33a114135b69e1	| Cross Chain Manager Contract
 pnWETH	| 0x23535b6fd46b8f867ed010bab4c2bd8ef0d0c64f	| 4fc6d0f08ebdc2b4ba10d07e868f6bd46f5b5323	| 
 nNEO	| 0x17da3881ab2d050fea414c80b3fa8324d756f60e	| 0ef656d72483fab3804c41ea0f052dab8138da17	| 
+cGAS	| 0x74f2dc36a68fdc4682034178eb2220729231db76	| 76db3192722022eb7841038246dc8fa636dcf274	| 
 pONTd	| 0x658cabf9c1f71ba0fa64098a7c17e52b94046ece	| ce6e04942be5177c8a0964faa01bf7c1f9ab8c65	| 
 pnUSDT	| 0xb8f78d43ea9fe006c85a26b9aff67bcf69dd4fe1	| e14fdd69cf7bf6afb9265ac806e09fea438df7b8	| 
 pnWBTC	| 0x69c57a716567a0f6910a0b3c1d4508fa163eb927	| 27b93e16fa08451d3c0b0a91f6a06765717ac569	| 
@@ -177,25 +181,11 @@ pxUSDT | 0xf6e02d506929c3f47be47bf60997a96a41c7b282 | 82b2c7416aa99709f67be47bf4
 Type | Contract Hash | Desc
 ---|---|---
 Wrapper | 	| 	| 
-Nep17Proxy	| 0x97758f7e9c11e79423453e5acd925989ff7d3ade	| de3a7dff895992cd5a3e452394e7119c7e8f7597	| The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
-CCMC	| 0xfdd6c536f59bfd1149e818635d46dcc6faf1ba44	| 44baf1fac6dc465d6318e84911fd9bf536c5d6fd	| Cross Chain Manager Contract
-pnWETH	| 	| 	| 
-nNEO	| 	| 	| 
+Nep17Proxy	| 0x4487494dac2f7eb68bdae009cacd6de88243e542	| 42e54382e86dcdca09e0da8bb67e2fac4d498744	| The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+CCMC	| 0x618d44dc3af16c6120dbf65402024f40a04f772a	| 2a774fa0404f020254f6db20616cf13adc448d61	| Cross Chain Manager Contract
+NEO	| 0xef4073a0f2b305a38ec4050e4d3d28bc40ea63f5	| f563ea40bc283d4d0e05c48ea305b3f2a07340ef	| 
+GAS	| 0xd2a4cff31913016155e38e474a2c06d08be276cf	| cf76e28bd0062c4a478ee35561011319f3cfa4d2	| 
 pONTd	| 	| 	| 
-pnUSDT	| 0xc3b4f3b4b7c6c399cb44e8076192a8a9ee980a28	| 	280a98eea9a8926107e844cb99c3c6b7b4f3b4c3| 
-pnWBTC	| 	| 	| 
-pnUNI_V2_ETH_WBTC	| 	| 	| 
-FLM	| 	| 	| 
-pBNB	| 	| 	| 
-pWING |	 |	 |
-pWBTC |	 |	 |
-pDAI |	 |	 |
-pUSDC |	 |	 |
-pHT |  |  | 
-pHrc20 |  |  | 
-pxWETH |  |  | 
-pxWBTC |  |  | 
-pxUSDT |  |  | 
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
@@ -218,6 +208,17 @@ NEOx | neox | 6e656f78 | not including currently
 GASx | gasx | 67617378 | not including currently
 ATOM | stake | 7374616b65 | not including currently
 
+
+## Bor
+
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0x15D3f62822a446b8C5fDBBef157f0b82b05c29Ab | Cross Chain Manager Proxy contract hash 
+ECCD | 0xd097cf11c0215563AaAE2d3bb49366C59FFFa144 | Cross Chain Data contract hash
+ECCM | 0x3f17e8DCb0D762e2bFCb437aD2C4ffe24BCF25ee   | Cross Chain Manager contract hash
+Lock Proxy | 0x4e5eF0CA5A94b169Fb010fb40DBFD57c4830f446 | The lock proxy bridge contract hash
+
+
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
@@ -230,4 +231,7 @@ BSC | 6 | 79
 Heco | 7 | 7
 Palette | 8 | 106
 OK | 12 | 200
-NEO(N3) | 11 | 11
+Heimdall | 15 | 201
+Bor | 16 | 202
+NEO(N3) | 88 | 88
+

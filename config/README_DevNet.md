@@ -36,20 +36,31 @@ ONT | B: 0100000000000000000000000000000000000000 </br> L: 000000000000000000000
 ETHx | B: d6b4cd930377e7e81d1ace85bbb9ce59f4dd9410 </br> L: 1094ddf459ceb9bb85ce1a1de8e7770393cdb4d6 |
 BTCx | B: d177d904456479dd592d4ce368e5d97ec8ffbcee </br> L: eebcffc87ed9e568e34c2d59dd79644504d977d1 |
 NEOx | B:  </br> L: | not including in the testing framework
-## Neo
+
+## Neo Legacy
 
 Type | Contract Hash | Desc
 ---|---|---
-CNEO-TEST | B:  </br> L:  |
-CGAS | B:  </br> L:  |
-ETHx | B:  0x74fac41ad5ad23921a3400e953e1cafb41240d08 L: 080d2441fbcae153e900341a9223add51ac4fa74 |
-ONTx | B:  </br> L:  |
-BTCx | B: 0x658c0e461174aa02a382b16ffe938569ab72db1d </br> L: 1ddb72ab698593fe6fb182a302aa7411460e8c65 |
-COSMOSx | B:  </br> L:  |
-CCMC | B: 0x82a3401fb9a60db42c6fa2ea2b6d62e872d6257f  </br> L: 7f25d672e8626d2beaa26f2cb40da6b91f40a382 |
-Lock Proxy | B: 0xedf7c7651584d2e87c19a90302066e1c39ab0ed8 </br> L: d80eab391c6e060203a9197ce8d2841565c7f7ed |
+pnUSDT | B:  0x20bc5bbb4dde06e5ca02bef761a9fdca6a05fd77 L: 77fd056acafda961f7be02cae506de4dbb5bbc20 |
+CCMC | B: 0x3135a1a4668688a3e15b004af3a718f2d67141ca  </br> L: ca4171d6f218a7f34a005be1a3888666a4a13531 |
+Lock Proxy | B: 0x3fef7ac6598ad83f5e4d4338e65530eba2173294 </br> L: 943217a2eb3055e638434d5e3fd88a59c67aef3f |
 
-Receiver: A: AZPXxnzAMZ58uaETnSkaiiMtvQAwoySBM1 B: 0x2d7e0d3d0ca3347a39863b54852d8ac25cae38c1 L: c138ae5cc28a2d85543b86397a34a30c3d0d7e2d
+Receiver: A: AZXRTygHgRbPu9o16K6en4BaZD11tXCmN1 B: 0x4fd83a49df40c0a7de2671da20c2a8dfe495b6c2 L: c2b695e4dfa8c220da7126dea7c040df493ad84f
+
+## Note 
+`B` means big-endian, we can search the contract transaction history in corresponding explorer.
+
+`L` means little-endian, we usually use it as the asset hash input when we do binding asset hash operation.
+
+## Neo N3
+
+Type | Contract Hash | Desc
+---|---|---
+pnUSDT | B:  0xc9505566e11660d239d987b5522a2232665bd0a8 L: a8d05b6632222a52b587d939d26016e1665550c9 |
+CCMC | B: 0x7c842f3900ceba5bcdeeeec05c9b41ba63ad6cd2  </br> L: d26cad63ba419b5cc0eeeecd5bbace00392f847c |
+Lock Proxy | B: 0x5376f41082a84fb000c944b6d44ba85b14e20fe5 </br> L: e50fe2145ba84bd4b644c900b04fa88210f47653 |
+
+Receiver: A: NLKpYEDmyGMWQVeqcoyZr9Lyo8P5Mrozba B: 0x67ce818168a75d3bedb7d295bf11c060d1c38204 L: 0482c3d160c011bf95d2b7ed3b5da7688181ce67
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
@@ -78,6 +89,7 @@ Type | Router Number | ChainId
 Bitcoin | 1 | 1
 Ethereum | 2 | 2
 Ontology | 3 | 3
-NEO | 4 | 4
+NEO Legacy | 217 | 217
+NEO N3 | 220 | 220
 Cosmos-gaia | 5 | 8
 Switcheo | 5 | 182
