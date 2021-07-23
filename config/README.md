@@ -329,6 +329,11 @@ Pool-4-LP | 0xCC0061012d49331Bf6Edf8d7a8cceC087F81E982 | LP token of pool-4
 WBTC    | 0x7648bDF3B4f26623570bE4DD387Ed034F2E95aad | Eth WBTC mapping asset in Curve
 BTCB    | 0x2367e9Cf3355EA714236e6719B91336D29D6D59D | Bsc BTC mapping asset in Curve
 HBTC    | 0x285F30fD447598178d3B8adBdc0839B0c72C26eb | Heco BTC mapping asset in Curve
+Pool-5  | 0x6C12415f6Ca74e5D1F091415858de7E188B0884C | BTC pool address in Curve
+Pool-5-LP | 0x81241b49e73e79d920c6ea71ABc84409DE766055 | LP token of pool-4
+ETH-USDC    | 0xAed3E54b7229d7b8f3970f0a03D98708716de96b | Eth USDC mapping asset in Curve
+BSC-USDC    | 0xE4444f57b4Bd843EC065BdaF67a2e9b8c1ee4f5b | Bsc USDC mapping asset in Curve
+MATIC-USDC    | 0xbc44977D9ad3CC55fd88fBe34616EBE8174f2c3f | Heco USDC mapping asset in Curve
 
 
 
@@ -345,6 +350,19 @@ Wrapper 2.0 | 0xbd4a08577476A521C41a21EF3f00b045b74175d5 | wrapper_v2 that take 
 Wing | 0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4 | Wing mapping asset in OKEx
 Flux | 0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228 | Flux mapping asset in OKEx
 mBTM | 0xB46985584980c17860CE396667bc74d94Bad4eBF | mBTM mapping asset in OKEx
+
+
+
+
+## Polygon
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0x5366ea2b5b729ff3cef404c2408c8c60cc061b71 | Cross Chain Manager Proxy contract hash 
+ECCD | 0x7cea671dabfba880af6723bddd6b9f4caa15c87b | Polygon Cross Chain Data contract hash
+ECCM | 0xabd7f7b89c5fd5d0aef06165f8173b1b83d7d5c9 | Polygon Cross Chain Manager contract hash
+Lock Proxy| 0x28ff66a1b95d7cacf8eded2e658f768f44841212 | Polygon Asset Proxy contract hash
+Poly Wrapper | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D | lock entrance for auto cross chain tx with fee 
+Swapper | 0xabc248c717fA0A9a78ff4Bf48A316c9e241A82C4 | Curve entrance for auto cross chain tx with fee 
 
 
 ## Note 
@@ -369,6 +387,7 @@ Switcheo | 5 | 5
 BSC | 6 | 6
 Heco | 7 | 7
 OKExChain | 12 | 12
+Polygon | 16 | 16
 
 ## Relayers
 
