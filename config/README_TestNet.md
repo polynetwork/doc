@@ -231,7 +231,6 @@ BSC | 6 | 79
 Heco | 7 | 7
 Palette | 8 | 106
 OK | 12 | 200
-NEO(N3 legacy) | 11 | 11
 Heimdall | 15 | 201
 Bor | 16 | 202
 NEO(N3) | 88 | 88
