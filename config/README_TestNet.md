@@ -217,6 +217,8 @@ CCMP | 0x15D3f62822a446b8C5fDBBef157f0b82b05c29Ab | Cross Chain Manager Proxy co
 ECCD | 0xd097cf11c0215563AaAE2d3bb49366C59FFFa144 | Cross Chain Data contract hash
 ECCM | 0x3f17e8DCb0D762e2bFCb437aD2C4ffe24BCF25ee   | Cross Chain Manager contract hash
 Lock Proxy | 0x4e5eF0CA5A94b169Fb010fb40DBFD57c4830f446 | The lock proxy bridge contract hash
+Poly Wrapper | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D	| lock entrance for auto cross chain tx with fee
+Swapper |	0x1B0C55be400e2a7D924032B257Fbc75Bbfd256E7 |	Curve entrance for auto cross chain tx with fee
 
 
 ## Router And ChainId
