@@ -361,8 +361,8 @@ CCMP | 0x5366ea2b5b729ff3cef404c2408c8c60cc061b71 | Cross Chain Manager Proxy co
 ECCD | 0x7cea671dabfba880af6723bddd6b9f4caa15c87b | Polygon Cross Chain Data contract hash
 ECCM | 0xabd7f7b89c5fd5d0aef06165f8173b1b83d7d5c9 | Polygon Cross Chain Manager contract hash
 Lock Proxy| 0x28ff66a1b95d7cacf8eded2e658f768f44841212 | Polygon Asset Proxy contract hash
-Poly Wrapper | 0xbd244Add6e6B54DbfedF3A7e25446DD9aA2e6b08 | lock entrance for auto cross chain tx with fee 
-Swapper | 0xabc248c717fA0A9a78ff4Bf48A316c9e241A82C4 | Curve entrance for auto cross chain tx with fee 
+Poly Wrapper | 0xB88f13682F3C602aCD84B4b2eEB96A9DD75Afd89 | lock entrance for auto cross chain tx with fee 
+Swapper | 0xaC57280B3A657A2e8D1180493C519a476D208F61 | Curve entrance for auto cross chain tx with fee 
 O3 | 0xee9801669c6138e84bd50deb500827b776777d28 | O3
 
 ## Note 
@@ -389,7 +389,7 @@ Heco | 7 | 7
 Curve | 10 | 10
 OKExChain | 12 | 12
 Heimdall | 15 | 15
-Polygon | 16 | 16
+Polygon | 17 | 17
 
 ## Relayers
 
