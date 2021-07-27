@@ -154,7 +154,7 @@ pUNI | B: b79d2064947f61070cb68ef26cbc12cbf3b98d9e</br> L: 9e8db9f3cb12bc6cf28eb
 
 Type | Contract Hash | Desc
 ---|---|---
-Wrapper | 0xc23143755be681f949f4c5fcfa5b4f8646dd34b5	| b534dd46864f5bfafcc5f449f981e65b754331c2	| 
+Wrapper | 0x0f4fad9ae3830585a9264e6ec0b1eff3e89c6558	| 58659ce8f3efb1c06e4e26a9850583e39aad4f0f	| 
 Nep5Proxy	| 0xedd2862dceb90b945210372d229f453f2b705f4f	| 4f5f702b3f459f222d371052940bb9ce2d86d2ed	| The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 CCMC	| 0xe1695b1314a1331e3935481620417ed835669407	| 07946635d87e4120164835391e33a114135b69e1	| Cross Chain Manager Contract
 pnWETH	| 0x23535b6fd46b8f867ed010bab4c2bd8ef0d0c64f	| 4fc6d0f08ebdc2b4ba10d07e868f6bd46f5b5323	| 
