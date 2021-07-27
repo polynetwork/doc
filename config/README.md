@@ -361,7 +361,8 @@ CCMP | 0x5366ea2b5b729ff3cef404c2408c8c60cc061b71 | Cross Chain Manager Proxy co
 ECCD | 0x7cea671dabfba880af6723bddd6b9f4caa15c87b | Polygon Cross Chain Data contract hash
 ECCM | 0xabd7f7b89c5fd5d0aef06165f8173b1b83d7d5c9 | Polygon Cross Chain Manager contract hash
 Lock Proxy| 0x28ff66a1b95d7cacf8eded2e658f768f44841212 | Polygon Asset Proxy contract hash
-Poly Wrapper | 0xB88f13682F3C602aCD84B4b2eEB96A9DD75Afd89 | lock entrance for auto cross chain tx with fee 
+Poly Wrapper | 0x4493fb5dc195900938CC23096C7EEdEfc434e283 | lock entrance for auto cross chain tx with fee 
+Wrapper 2.0 | 0xB88f13682F3C602aCD84B4b2eEB96A9DD75Afd89 | wrapper_v2 that take native asset as fee
 Swapper | 0xaC57280B3A657A2e8D1180493C519a476D208F61 | Curve entrance for auto cross chain tx with fee 
 O3 | 0xee9801669c6138e84bd50deb500827b776777d28 | O3
 
