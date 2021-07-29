@@ -112,6 +112,7 @@ OOE | 0x7778360f035c589fce2f4ea5786cbd8b36e5396b | OOE
 BET | 0x028a52032a7075a42585c037f069c62b49ebaa3d | BET
 CBC | 0x14e449473251F2D9D4eA5D26199F002C214b2475 | CBC
 DFC | 0x1b2a76da77d03b7fc21189d9838f55bd849014af | DFC
+USDC | 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 | USDC
 
 
 ## Ethereum: nrenBTC/nsBTC/nTUSD/nUSDC/nwBTC/nwETH/nDAI
@@ -249,6 +250,7 @@ OOE | 0x9029fdfae9a03135846381c7ce16595c3554e10a | OOE
 BET | 0x028a52032a7075a42585c037f069c62b49ebaa3d | BET
 CBC | 0x793cEa0F1003411396b3A81A77d92Fe37015E7A9 | CBC
 DFC | 0x1b2a76da77d03b7fc21189d9838f55bd849014af | DFC
+USDC | 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d | USDC
 
 
 
@@ -366,9 +368,11 @@ CCMP | 0x5366ea2b5b729ff3cef404c2408c8c60cc061b71 | Cross Chain Manager Proxy co
 ECCD | 0x7cea671dabfba880af6723bddd6b9f4caa15c87b | Polygon Cross Chain Data contract hash
 ECCM | 0xabd7f7b89c5fd5d0aef06165f8173b1b83d7d5c9 | Polygon Cross Chain Manager contract hash
 Lock Proxy| 0x28ff66a1b95d7cacf8eded2e658f768f44841212 | Polygon Asset Proxy contract hash
-Poly Wrapper | 0xB88f13682F3C602aCD84B4b2eEB96A9DD75Afd89 | lock entrance for auto cross chain tx with fee 
+Poly Wrapper | 0x4493fb5dc195900938CC23096C7EEdEfc434e283 | lock entrance for auto cross chain tx with fee 
+Wrapper 2.0 | 0xB88f13682F3C602aCD84B4b2eEB96A9DD75Afd89 | wrapper_v2 that take native asset as fee
 Swapper | 0xaC57280B3A657A2e8D1180493C519a476D208F61 | Curve entrance for auto cross chain tx with fee 
 O3 | 0xee9801669c6138e84bd50deb500827b776777d28 | O3
+USDC | 0x2791bca1f2de4661ed88a30c99a7a9449aa84174 | USDC
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
