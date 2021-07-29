@@ -185,7 +185,9 @@ Nep17Proxy	| 0x4487494dac2f7eb68bdae009cacd6de88243e542	| 42e54382e86dcdca09e0da
 CCMC	| 0x618d44dc3af16c6120dbf65402024f40a04f772a	| 2a774fa0404f020254f6db20616cf13adc448d61	| Cross Chain Manager Contract
 NEO	| 0xef4073a0f2b305a38ec4050e4d3d28bc40ea63f5	| f563ea40bc283d4d0e05c48ea305b3f2a07340ef	| 
 GAS	| 0xd2a4cff31913016155e38e474a2c06d08be276cf	| cf76e28bd0062c4a478ee35561011319f3cfa4d2	| 
-pONTd	| 	| 	| 
+FLM	| 0x1415ab3b409a95555b77bc4ab6a7d9d7be0eddbd	| bddd0ebed7d9a7b64abc775b55959a403bab1514	| 
+fUSDT	| 0x83c442b5dc4ee0ed0e5249352fa7c75f65d6bfd6	| d6bfd6655fc7a72f3549520eede04edcb542c483	| 
+fWETH	| 0x38a2aace91f92b979207c0dd50a857c117d4785b	| 5b78d417c157a850ddc00792972bf991ceaaa238	| 
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
