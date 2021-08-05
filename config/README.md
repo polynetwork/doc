@@ -22,7 +22,8 @@ Polygon | <ul><li>0xE5998e2879acCc23B1f0cF47D3D698496DAf45Fa</li> <li>0xD71BFfa8
 Chain | IP | Rpc Port
 ---|---|---
 Poly | ```http://seed1.poly.network``` | 20336
-Neo | ```http://seed9.ngd.network``` | 11332
+Neo Legacy | ```http://seed9.ngd.network``` | 11332
+Neo N3 | ```http://seed5.neo.org``` | 10332
 
 
 
@@ -416,7 +417,7 @@ Type | Router Number | ChainId
 Bitcoin | 1 | 1
 Ethereum | 2 | 2
 Ontology | 3 | 3
-NEO | 4 | 4
+Neo Legacy | 4 | 4
 Switcheo | 5 | 5
 BSC | 6 | 6
 Heco | 7 | 7
