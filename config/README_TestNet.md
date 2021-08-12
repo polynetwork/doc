@@ -19,7 +19,8 @@ ECCD | 0xA38366d552672556CE82426Da5031E2Ae0598dcD | Ethereum Cross Chain Data co
 ECCM | 0x726532586C50ec9f4080B71f906a3d9779bbd64F   | Ethereum Cross Chain Manager contract hash
 Lock Proxy | 0xD8aE73e06552E270340b63A8bcAbf9277a1aac99 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 Wrapper | 0xDc37471Af6a8aB7f45F444c5a3Ef4758281bE32C   | Ethereum Wrapper contract hash
-NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lockc proxy contract hash
+PLT Asset | 0x1AC77d322e3347B8de181304B7c118a7e89c6Bc1 | The palette asset hash
+NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lock proxy contract hash
 NFT Wrapper | 0x940300dc3Fc26e3A330a300be766184C0b5Fe019 | The NFT Wrapper contract hash
 NFT Query | 0x500674D603331C43ed2288834BAb284BF65fc076 | The NFT profile query contract hash
 NFT SEASCAPE | 0x3680fb34F55030326659cd9AaEc522B6E355bdB6 | The seascape NFT contracct hash
@@ -222,6 +223,14 @@ Lock Proxy | 0x4e5eF0CA5A94b169Fb010fb40DBFD57c4830f446 | The lock proxy bridge 
 Poly Wrapper | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D	| lock entrance for auto cross chain tx with fee
 Swapper |	0x1B0C55be400e2a7D924032B257Fbc75Bbfd256E7 |	Curve entrance for auto cross chain tx with fee
 
+## Palette
+
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0x309064768EBD4EeF8ce073888e2f1C7e1CCCa191 | Cross Chain Manager Proxy contract hash 
+ECCD | 0x17d37a71986b7592dF8BAD1a9F0FB8Da9792d8D3 | Cross Chain Data contract hash
+ECCM | 0x42FbA453E4201dF556B06D02400E944b33e98DdF   | Cross Chain Manager contract hash
+NFT Lock Proxy | 0x6e5fB68D6B705A567d75135169cF69574225eBe6 | The NFT lock proxy bridge contract hash
 
 ## Router And ChainId
 Type | Router Number | ChainId
@@ -233,7 +242,7 @@ NEO(N2) | 4 | 5
 Switcheo | 5 | release soon
 BSC | 6 | 79
 Heco | 7 | 7
-Palette | 8 | 106
+Palette | 8 | 107
 OK | 12 | 200
 Curve | 10 | 82
 Heimdall | 15 | 201
