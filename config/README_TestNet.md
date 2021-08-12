@@ -229,7 +229,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0x309064768EBD4EeF8ce073888e2f1C7e1CCCa191 | Cross Chain Manager Proxy contract hash 
 ECCD | 0x17d37a71986b7592dF8BAD1a9F0FB8Da9792d8D3 | Cross Chain Data contract hash
-ECCM | 0x42FbA453E4201dF556B06D02400E944b33e98DdF   | Cross Chain Manager contract hash
+ECCM | 0x972e3BAff0F40cb7c7359E6db6F8A4dc207805a8   | Cross Chain Manager contract hash
 NFT Lock Proxy | 0x6e5fB68D6B705A567d75135169cF69574225eBe6 | The NFT lock proxy bridge contract hash
 
 ## Router And ChainId
