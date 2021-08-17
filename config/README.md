@@ -420,6 +420,14 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 :-:|:-:|:-:|:-:
 
 
+## Palette
+Type | Contract Hash | Desc
+---|---|---
+ECCD | 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Palette Cross Chain Data contract hash
+ECCM | 0x1b02EEE12A7bF02922113a70d3D343De4b43f776 | Palette Cross Chain Manager contract hash
+CCMP | 0x7622058504412D5183352A7d350653DfFe58b1DC | Cross Chain Manager Proxy contract hash 
+PLT Wrapper | 0x0A9C412633465fdeE4861CeE02987386100bEAe6 | lock entrance for auto cross chain tx with fee 
+
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
@@ -430,6 +438,7 @@ Neo Legacy | 4 | 4
 Switcheo | 5 | 5
 BSC | 6 | 6
 Heco | 7 | 7
+Palette | 8 | 8
 Curve | 10 | 10
 OKExChain | 12 | 12
 Neo N3 | 14 | 14
