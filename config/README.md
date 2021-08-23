@@ -341,8 +341,8 @@ CBC | 0x14e449473251F2D9D4eA5D26199F002C214b2475 | CBC
 Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0x25293B33DE6c7097A27b6c12888a15e0AbFf3A00 | Cross Chain Manager Proxy contract hash 
-ECCD | 0xd57Dc9E14Be808b514D30fC5e46a07Ba1e5Cf473s | Cross Chain Data contract hash
-ECCM | 0xcA249a1d72822B06dfE77F11A874CCEF52316b76 | Cross Chain Manager contract hash
+ECCD | 0xd57Dc9E14Be808b514D30fC5e46a07Ba1e5Cf473 | Cross Chain Data contract hash
+ECCM | 0x89D15F45597816C90cbafd32D0Bb8Fc99bE0B76f | Cross Chain Manager contract hash
 SwapProxy| 0x34d4a23A1FC0C694f0D74DDAf9D8d564cfE2D430 | Asset Proxy contract hash
 Pool-1  | 0xa6157DaBDda80F8c956962AB7739f17F54BAAB7F | USDT-BUSD-HUSD pool address in Curve
 Pool-1-LP | 0x23dF75A64Dc59d2884BE25021d7A424B18709A41 | LP token of pool-1
